@@ -11,11 +11,11 @@ npm install
 # 创建一个项目
 vue init webpack 项目名称
 
-#手动安装路由
+# 手动安装路由
 cd 到项目目录
 npm install vue-router --save
 
-#手动安装Resource
+# 手动安装Resource
 cd 到项目目录
 npm install vue-resource --save
 
