@@ -32,7 +32,7 @@ export default {
 <style>
 	@font-face{
 	    font-family: 'bichimel';
-	    src: url('./../static/font/Bichimel.ttf');
+	    src: url('./../static/font/Syurga.ttf');
 	    font-weight: normal;
 	    font-style: normal;
     }
